@@ -2,7 +2,7 @@ import React from 'react';
 
 const terminal = ({ userData, selected }) => {
     const selectedData = selected === "All" ? userData : userData[selected];
-    const jsonCode = JSON.stringify(selectedData, replacer: null, space: 4);
+    const jsonCode = JSON.stringify(selectedData, null, 4);
 
     return(
         <div className='window'>
