@@ -8,7 +8,7 @@ export default function Home() {
             <p className="page-title">Simple OAuth with Node.js</p>
             <p style={{ fontSize: 20 }}>
                 Passport.js contains support for over
-                <span style={{ color: "var(--primary-red)" }}>500+</span>
+                <span style={{ color: "var(--primary-red)" }}> 500+ </span>
                 Get started today with just a username and password for
                 apps like Facebook, Instagram, and Google.
             </p>

@@ -20,6 +20,7 @@ pre {
     word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
 
+/*MENU DROPDOWN*/
 .btn {
     text-decoration: none;
     color: white;
@@ -74,6 +75,7 @@ pre {
     font-size: 1.5rem;
     border-radius: 50%;
 }
+/*END MENU DROPDOWN*/
 
 .card {
     background: white;
